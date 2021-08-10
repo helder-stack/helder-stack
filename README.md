@@ -2,7 +2,7 @@
 
 ## I'm lover of coding and a student of life!
 - 🔭 Currently working as a Web Developer at Chat2Desk Brazil.
-- 🌱 Currently learning everything, but focused on Python, NodeJS and in the future, TypeScript. 🤣
+- 🌱 Currently learning everything, but focused on Python, NodeJS, Vue.JS and in the future, TypeScript. 🤣
 
 ### Connect with me:
 ​
