@@ -3,7 +3,7 @@
 
 ## I'm lover of coding and a student of life!
 - 🔭 Currently working as a Web Developer at Chat2Desk Brazil.
-- 🌱 Currently learning everything, but focused on Python, NodeJS, Vue.JS and in the future, TypeScript. 🤣
+- 🌱 Currently learning everything, but focused on Python, NodeJS, Vue.JS and typescript. In the future, react.js🤣
 
 ### Connect with me:
 ​
@@ -19,11 +19,11 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helder-stack&show_icons=true" alt="matheus-santos-moreira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helder-stack&show_icons=true" alt="helder-de-lima" /></p>
 </details>
 
 <details>
   <summary>:zap: Most Used Languages </summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-stack&layout=compact&hide=html" alt="matheus-santos-moreira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-stack&layout=compact&hide=html" alt="helder-de-lima" /></p>
 
 </details>
