@@ -3,7 +3,7 @@
 
 ## I'm lover of coding and a student of life!
 - 🔭 Currently working as a Web Developer at Chat2Desk Brazil.
-- 🌱 Currently learning everything, but focused on Python, NodeJS, Vue.JS, typescript and react.js. In the future, react native🤣
+- 🌱 Currently learning everything, but focused on NodeJS, Vue.JS, typescript, react.js, Nest.js. In the future, dockers
 
 ### Connect with me:
 ​
