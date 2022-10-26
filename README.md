@@ -3,7 +3,7 @@
 
 ## I'm lover of coding and a student of life!
 - 🔭 Currently working as a Web Developer at Telos Conecta.
-- 🌱 Currently learning everything, but focused on NodeJS, Vue.JS, typescript, react.js, Nest.js. In the future, docker
+- 🌱 Currently learning everything, but focused on NodeJS, typescript, React.js, Nest.js and Google Cloud Platform. In the future, docker
 
 ### Connect with me:
 ​
