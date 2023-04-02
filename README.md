@@ -34,6 +34,5 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ">
 </a>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-stack&layout=compact&hide=html&theme=tokyonight" alt="helder-de-lima" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helder-stack&theme=tokyonight" alt="helder-de-lima" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-stack&layout=compact&hide=html&theme=tokyonight" alt="helder-de-lima" />
