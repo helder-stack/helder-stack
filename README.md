@@ -35,6 +35,5 @@
 </a>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-stack&layout=compact&hide=html&theme=tokyonight" alt="helder-de-lima" /></p>
-<hr />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helder-stack&theme=tokyonight" alt="helder-de-lima" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-stack&layout=compact&hide=html&theme=tokyonight" alt="helder-de-lima" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helder-stack&theme=tokyonight" alt="helder-de-lima" />
