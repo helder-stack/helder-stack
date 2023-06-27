@@ -4,12 +4,12 @@
   <li>Node.js</li>
   <li>Typescript</li>
   <li>Nest.js</li>
-  <li><strong>Learning</strong> Golang</li>
   </ul>
 
 - 🙋‍♂️ But also front-end stacks. Let me show you:
   <ul>
   <li>React.js</li>
+  <li>Next.js</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
@@ -18,14 +18,14 @@
 - ☁️ Cloud technologies:
    <ul>
   <li>Google Cloud Platform</li>
-  <li><strong>Learning</strong> Amazon Web Services</li>
+  <li>Amazon web services</li>
   </ul>
   
  - 🖥️ Microservices:
  <ul>
   <li>Docker</li>
   <li>Docker Swarm</li>
-  <li>Kubernets</li>
+  <li>Kubernetes</li>
   </ul>
 
 ### Connect with me:
